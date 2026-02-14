@@ -1,0 +1,23 @@
+{
+  "name": "dog_demo",
+  "version": "1.0.0",
+  "description": "a demo of a dog api",
+  "homepage": "https://github.com/ellieNoble13/Assignment-Fetching-Dog-Data-with-JavaScript#readme",
+  "bugs": {
+    "url": "https://github.com/ellieNoble13/Assignment-Fetching-Dog-Data-with-JavaScript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellieNoble13/Assignment-Fetching-Dog-Data-with-JavaScript.git"
+  },
+  "license": "MIT",
+  "author": "ellie",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
